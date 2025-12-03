@@ -9,6 +9,15 @@ It includes:
 
 ---
 
+## 👤 Student Details
+
+**Name:** *Nikhil Gourkar*  
+**Branch:** *Computer Technology*  
+**Registration Number:** *23071443*  
+**Roll Number:** *59*  
+
+---
+
 ## 📌 Project Contents
 
 ### 🟩 **Java Files**
@@ -35,4 +44,3 @@ It includes:
 ### 1️⃣ Compile Java files
 ```bash
 javac *.java
-
